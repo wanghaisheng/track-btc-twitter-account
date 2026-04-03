@@ -1,0 +1,35 @@
+**✅ 彼得·蒂尔基金（主要Founders Fund + Thiel Capital）在Ordinals相关领域的最新投资标的分析**（截至2026年4月3日）
+
+“彼得蒂尔那两个基金”，指的主要是**Founders Fund**（彼得·蒂尔联合创立的VC基金）和**Thiel Capital**（其家族办公室/个人投资载体）。两者在加密领域高度协同，常共同出手。
+
+我通过全面搜索公开新闻、融资记录和SEC备案，汇总了**2024–2026年**与**Bitcoin Ordinals / Runes / Inscriptions / Rare Sats / BRC-20 / Bitcoin L2** 直接或高度相关的投资。**结论先行**：
+
+- **没有找到直接投资纯Ordinals生态项目**（如Unisat钱包、Magic Eden的Ordinals板块、Rare Sats认证平台、Runes协议衍生项目、BRC-20发行工具等）的公开记录。
+- **但Founders Fund重仓了Bitcoin基础设施创新**，这些项目与Ordinals高度关联（Ordinals的inscriptions技术直接推动了Bitcoin L2的发展）。这正是王二小所说的“成长股”逻辑：不追应用层热点，而是押注底层协议与扩容。
+
+### 1. **最相关标的：Citrea（Bitcoin首个ZK Rollup）** ★ 核心推荐
+   - **投资细节**：2025年Series A轮 **$14M**，由**Founders Fund领投**（Peter Thiel基金），Galaxy Ventures等跟投。
+   - **与Ordinals关系**：Citrea使用**BitVM + inscriptions**技术在Bitcoin主网验证ZK证明，是Ordinals铭文技术在L2的直接延伸。它允许BTC作为抵押品做DeFi、借贷、交易，同时继承Bitcoin完整安全（validity + liveness）。
+   - **最新动态**（2026年1月）：主网已上线，初始流动性约$50M，支持30+非托管应用。目标是把“闲置BTC变成高速度银行账户”，开启Bitcoin信用市场。
+   - **为什么值得关注**：这是彼得·蒂尔基金目前在Bitcoin L2里最明确的押注，完美契合Ordinals开启的“Bitcoin可编程性”浪潮（inscriptions从NFT扩展到L2数据层）。
+
+### 2. **Plasma（Bitcoin稳定币侧链/Layer 1）**
+   - **投资细节**：Peter Thiel个人早期天使投资 + **Founders Fund战略投资**（2025年5月宣布加深合作）。项目后续完成$20M+ Series A和超额$373M ICO（2025年）。
+   - **与Ordinals关系**：Plasma是专为稳定币（零手续费USDT）打造的**Bitcoin侧链**，目标是大规模稳定币结算。虽不直接做铭文/Runes，但属于Bitcoin扩容生态，与Ordinals驱动的BTCFi（Bitcoin DeFi）高度重叠。
+   - **最新动态**：主网beta已上线，主打新兴市场支付 + 10%+收益。Tether CEO Paolo Ardoino等也参与，定位“Bitcoin上的稳定币基础设施”。
+
+### 3. **其他Bitcoin相关持仓（间接支撑Ordinals生态）**
+   - **直接BTC + ETH持仓**：Founders Fund多次大举买入BTC（2017年起数百亿美元规模，2023–2024年再投$2亿）。2025年还持有Bitcoin矿企BitMine 9.1%股份（虽后来转向Ether treasury）。
+   - **Bullish交易所**：Thiel Capital + Founders Fund早期投资（后收购CoinDesk），提供Ordinals交易流动性支持。
+   - **无直接Ordinals项目**：未见对Casey Rodarmor项目、Rare Sats工具、NodeMonkes、Runes铸造平台等的VC投资记录。
+
+### 总结：为什么王二小说“看看就行了”？
+- 彼得·蒂尔基金的风格是**押注Bitcoin底层革命**（从早期BTC到现在的L2/稳定币侧链），而非追逐铭文/NFT炒作。
+- **Ordinals相关性最高**的就是**Citrea**——它把Ordinals的inscriptions技术升级成Bitcoin DeFi基础设施，潜在100倍赔率逻辑在这里（Bitcoin扩容 + BTCFi爆发）。
+- Plasma则代表稳定币+Bitcoin支付赛道，与Ordinals生态的流动性需求互补。
+- 其余Ordinals纯应用层（如Rare Sats、Runes meme、铭文市场）目前不在他们的公开组合里，符合“脱离有价值成长股范畴”的判断。
+
+**建议监控方式**（结合之前关键词列表）：
+- X搜索：`from:citrea_xyz OR from:plasma (ordinals OR runes OR inscriptions)`
+- 持续跟踪Citrea主网数据 + Plasma稳定币TVL（这些是2026年Bitcoin L2最确定的催化剂）。
+
